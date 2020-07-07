@@ -8,7 +8,7 @@ The main difference between this watcher and the currently recommended [Redis Wa
 ## Installation
 
 ```sh
-go get github.com/escaletech/casbin-redis-watcher
+go get github.com/escaletech/casbin-redis-watcher/watcher
 ```
 
 ## Usage
